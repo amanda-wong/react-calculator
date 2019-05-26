@@ -1,7 +1,7 @@
-#react-calculator
+# react-calculator
 Calculator made with create-react-app
 
-##Getting Started
+## Getting Started
 Install packages
 ```
 npm install
